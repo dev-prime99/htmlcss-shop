@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+
+}
+
+.contenitore{
+  background-color: red;
+  background-size: cover;
+  margin: 0;
+}
+
+.a{
+  max-width: 300px;
+  position: relative;
+}
+
+
+p{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: green;
+}
